@@ -1,9 +1,9 @@
-### Hello there 👋
+![image](https://github.com/joabzicg/joabzicg/assets/91567044/d6412a32-d597-42d8-9c74-ee3d1a60ec82)### Hello there 👋
 
 Studying Electrical Engineering ;v  
 Making some strange projects with AI pixelated cats, UV lights and Two-Port Networks.
 
-![](https://i.imgur.com/iO4KG1F.jpg)
+![](https://i.imgur.com/1jRYNki.png)
 
 
 ### Stats
