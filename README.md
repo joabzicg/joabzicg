@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Studying Computer Science @ ENSTA Paris.
+Studying Computer Science @ ENSTA Paris. (Robotics & Embedded Systems emphasis)
 
 And Electrical Engineering @ UFCG (Brazil)
 
